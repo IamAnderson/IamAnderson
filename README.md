@@ -1,6 +1,6 @@
 ![MasterHead](https://www.creative-tim.com/blog/content/images/size/w960/2021/10/Github-profile-1.jpg)
 <h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">A Fullstack Developer And Blockchain Developer From Nigeria.</h3>
+<h3 align="center">A Software Engineer And Blockchain Developer </h3>
 <Img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"  alt="" />
 <p align="left"> <a href="https://twitter.com/iam___andy" target="blank"><img src="https://img.shields.io/twitter/follow/iam___andy?logo=twitter&style=for-the-badge" alt="iam___andy" /></a> </p>
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam___andy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam___andy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anderson-simeon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-simeon/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anderson-simeon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-simeon/" height="30" width="40" /></a>
 <a href="https://discord.gg/DeAndre #3249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DeAndre #3249" height="30" width="40" /></a>
 </p>
 
