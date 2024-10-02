@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **fullstack webapp projects and mobile applications.**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I work with **Solidity**
 
 - 👨‍💻 Here is a link to my [portfolio](https://andersonsimeon.vercel.app/projects)
 
