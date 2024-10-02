@@ -4,15 +4,15 @@
 <Img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"  alt="" />
 <p align="left"> <a href="https://twitter.com/iam___andy" target="blank"><img src="https://img.shields.io/twitter/follow/iam___andy?logo=twitter&style=for-the-badge" alt="iam___andy" /></a> </p>
 
-- 🔭 I’m currently working on a **fullstack projects integrating Solidty.**
+- 🔭 I’m currently working on a **fullstack webapp projects and mobile applications.**
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 Here is a link to my portfolio [https://portfolio-anderson.vercel.app/Work](https://portfolio-anderson.vercel.app/Work)
+- 👨‍💻 Here is a link to my [portfolio](https://andersonsimeon.vercel.app/projects)
 
 - 💬 Ask me about **React, Vue, NextJs, Node, Express, Solidity**
 
-- 📫 How to reach me **omorogbeandersonsimeon@gmail.com**
+- 📫 How to reach me **andystack23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
